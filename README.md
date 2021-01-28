@@ -1,4 +1,5 @@
-### Hi there 👋
+### 평범한 코딩하는 초등학생 다하에요.
+## It's Daha, an elementary school student who does ordinary coding.
 
 <!--
 **Daha0120/Daha0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
