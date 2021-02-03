@@ -1,5 +1,7 @@
 ### 평범한 코딩하는 초등학생 다하에요.
 ## It's Daha, an elementary school student who does ordinary coding.
+===
+지금은 새로운 시작을 위해 디스코드 계정을 옮겨서 활동하고 있습니다. ( 유튜브는 여전히 활동 중 )
 
 <!--
 **Daha0120/Daha0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
