@@ -1,5 +1,6 @@
 ### 평범한 코딩하는 초등학생 다하에요.
 
+<!--
 **Daha0120/Daha0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daha0120)](https://github.com/anuraghazra/github-readme-stats)
