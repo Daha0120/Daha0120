@@ -1,12 +1,5 @@
 ### 평범한 코딩하는 초등학생 다하에요.
-## It's Daha, an elementary school student who does ordinary coding.
-지금은 새로운 시작을 위해 디스코드 계정을 옮겨서 활동하고 있습니다.
-( 
-"Daha0120"은 각종 sns( 트위터, 인스타, 유튜브 etc. ) 로 오픈활동용 계정입니다.
-개발용 계정은 비공개입니다.
-)
 
-<!--
 **Daha0120/Daha0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,6 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daha0120)](https://github.com/anuraghazra/github-readme-stats)
